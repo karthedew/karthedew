@@ -9,6 +9,7 @@
 - 💬 Ask me about blockchain, identity, and cross-domain applications.
 - 📫 How to reach me: Find me on twitter @karthedew
 - ⚡ Fun fact: love soccer
+- I also like to develop on GitLab (https://gitlab.com/karthedew)
 
 <!--
 **karthedew/karthedew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
